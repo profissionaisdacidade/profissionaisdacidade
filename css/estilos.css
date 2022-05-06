@@ -1,0 +1,35 @@
+
+.fundo-top{
+    background-image: url("../imagens/fundo-topo.png");
+    background-color: #c6ffb3;
+    
+}   
+
+#home{
+    border-top: 1px solid white ;
+    color: white;
+}
+#painel{
+    background-image: url("../imagens/fundo-topo.png");
+    background-color: #c6ffb3;
+    
+    
+}
+.promocoes{
+    width: 700px;
+    height: 350px;
+}
+.lojas{
+    margin: 10px;
+    padding: 5px;
+  
+    width: 250px;
+    height: 118px;
+}
+.mapas{
+    width: 250px;
+    height: 118px;
+}
+.lojas{
+    margin: 10px;
+}
